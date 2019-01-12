@@ -1,0 +1,6 @@
+.nav li {
+    display: inline-block;
+    margin-left: 32px;
+    font-size: 17px;
+    letter-spacing: -0.03rem;
+}
