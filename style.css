@@ -1,6 +1,7 @@
-.nav li {
-    display: inline-block;
-    margin-left: 32px;
-    font-size: 17px;
-    letter-spacing: -0.03rem;
+/* CSS Document */
+
+@charset "utf-8";
+
+h1{
+  font-size: 120px;
 }
